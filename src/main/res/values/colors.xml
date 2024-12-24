@@ -7,4 +7,13 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="deep_cerulean">#0176B2</color>
+    <color name="rdy_color_all_ports">#016fa7</color>
+    <color name="brand_color_gallery">#F8F8F8</color>
+    <color name="c_brand_default_color">#016fa7</color>
+    <color name="rdy_sys_border_midEmphasis_onLight">#00000026</color>
+    <color name="rdy_sys_color_selected_onLight">#17000000</color>
+
+    <color name="rdy_color_zircon">#f4f6ff</color>
+
 </resources>
